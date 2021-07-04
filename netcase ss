@@ -1,4 +1,4 @@
-shadowsocks=120.55.164.155:18888, method=chacha20-ietf, password=musicli, fast-open=false, udp-relay=false, tag=解锁5
+shadowsocks=120.55.164.155:18888, method=chacha20-ietf, password=musicli, fast-open=false, udp-relay=false, tag=解锁6
 http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=解锁1
 http=212.64.65.14:4567, fast-open=false, udp-relay=false, tag=解锁2
 http=107.175.213.25:4567, fast-open=false, udp-relay=false, tag=解锁3

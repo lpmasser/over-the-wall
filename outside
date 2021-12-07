@@ -23,7 +23,7 @@ surge_ruleset=🐟 漏网之鱼,[]FINAL
 ;设置规则标志位
 
 ;设置分组标志位
-custom_proxy_group=🌏 国内`select`(回国|中国)`[]DIRECT
+custom_proxy_group=🌏 国内`select`.*`[]DIRECT
 custom_proxy_group=🎶 网易音乐`select`(music|解锁)`[]🌏 国内`[]DIRECT`(网易|音乐|解锁|Music|NetEase)
 custom_proxy_group=🛑 广告拦截`select`[]REJECT`[]DIRECT
 custom_proxy_group=🍃 应用净化`select`[]REJECT`[]DIRECT

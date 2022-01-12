@@ -36,7 +36,7 @@ server=/*.xiaomi.com/119.29.29.29
 
 [policy]
 # 其中 Apple Update 为屏蔽iOS系统更新的策略组，默认保持直连，如有需要屏蔽，请在面板自行切换至REJECT； CMedia 策略组为中国媒体（包括A站、B站、爱奇艺等）；GMedia 为国际媒体（包括HULU、HBO等）；Outside 指定访问境外网站时的策略或节点；Mainland 控制访问大陆网站时的策略；Others 为其他规则，若前边的规则都没有被匹配到，则听从此策略组的规定。
-static=Choose, Speedtest, proxy, direct, img-url=https://www.github.com/Koolson/Qure/tree/master/IconSet/Proxy.png
+static=Choose, direct, Speedtest, proxy, img-url=https://www.github.com/Koolson/Qure/tree/master/IconSet/Proxy.png
 static=AdBlock, reject, Choose, direct, img-url=https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/IconSet/AdBlock.png
 static=Apple Update, direct, reject, Choose, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple_Update.png
 static=Apple, direct, server-tag-regex=HK, img-url=https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/IconSet/Apple.png

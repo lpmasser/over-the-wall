@@ -1,4 +1,3 @@
-shadowsocks=MUSIC.DESPERADOJ.COM:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=解锁0
 http=ivapp.cn/wyy.txt, fast-open=false, udp-relay=false, tag= 解锁1
 http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag= 解锁2
 http=LOLICO.ME:443, fast-open=false, udp-relay=false, tag= 解锁3
@@ -6,7 +5,6 @@ http=SALVAN.ICU:19980, fast-open=false, udp-relay=false, tag= 解锁4
 http=1.116.214.16:19980, fast-open=false, udp-relay=false, tag= 解锁5
 http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag= 解锁6
 http=101.132.79.113:23333, fast-open=false, udp-relay=false, tag= 解锁7
-http=MUSIC.LOLICO.ME:39000, fast-open=false, udp-relay=false, tag= 解锁8
 http=MUSIC.GRIOUGES.CN:39000, fast-open=false, udp-relay=false, tag= 解锁9
 shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag= 解锁10
 shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag= 解锁11

@@ -1,9 +1,12 @@
-http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag= music1
-http=LOLICO.ME:443, fast-open=false, udp-relay=false, tag= music2
-http=SALVAN.ICU:19980, fast-open=false, udp-relay=false, tag= music3
-http=1.116.214.16:19980, fast-open=false, udp-relay=false, tag= music4
-http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag= music5
-http=101.132.79.113:23333, fast-open=false, udp-relay=false, tag= music6
-http=MUSIC.GRIOUGES.CN:39000, fast-open=false, udp-relay=false, tag= music7
-shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag= music8
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag= music9
+shadowsocks=MUSIC.DESPERADOJ.COM:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=music0
+http=ivapp.cn/wyy.txt, fast-open=false, udp-relay=false, tag=music1
+http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=music2 
+http=LOLICO.ME:443, fast-open=false, udp-relay=false, tag=music3
+http=SALVAN.ICU:19980, fast-open=false, udp-relay=false, tag=music4
+http=1.116.214.16:19980, fast-open=false, udp-relay=false, tag=music5
+http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=music6
+http=101.132.79.113:23333, fast-open=false, udp-relay=false, tag=music7
+http=MUSIC.LOLICO.ME:39000, fast-open=false, udp-relay=false, tag=music8
+http=MUSIC.GRIOUGES.CN:39000, fast-open=false, udp-relay=false, tag=music9
+shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=music10
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=music11

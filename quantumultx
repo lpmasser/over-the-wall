@@ -40,11 +40,11 @@ static=Choose, direct, Speedtest, proxy, img-url=https://www.github.com/Koolson/
 static=AdBlock, reject, Choose, direct, img-url=https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/IconSet/AdBlock.png
 static=Apple Update, direct, reject, Choose, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple_Update.png
 static=Apple, direct, server-tag-regex=HK, img-url=https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/IconSet/Apple.png
-static=Netease Music, direct, resource-tag-regex=🎵 网易云音乐|netease, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netease_Music_Unlock.png
+static=Netease Music, direct, resource-tag-regex=🎵 网易云音乐|music, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netease_Music_Unlock.png
 static=CMedia, Choose, direct, proxy, img-url=https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/IconSet/CMedia.png
 static=TikTok, Choose, proxy, direct, img-url=https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/IconSet/TikTok.png
 static=Mainland, Choose, direct, proxy, img-url=https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/IconSet/Mainland.png
-url-latency-benchmark=Speedtest, server-tag-regex=中国|回国, check-interval=600, tolerance=0, img-url=https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/IconSet/Speedtest.png
+url-latency-benchmark=Speedtest, server-tag-regex=IPLC\(严禁下载\), check-interval=1800, tolerance=0, img-url=https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/IconSet/Speedtest.png
 static=Others, Choose, direct, img-url=https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/IconSet/Others.png
 
 
@@ -54,8 +54,9 @@ static=Others, Choose, direct, img-url=https://raw.githubusercontent.com/GeQ1an/
 
 
 [server_remote]
-https://raw.githubusercontent.com/lpmasser/command/master/netcase%20ss, tag=netease, update-interval=86400, opt-parser=false, enabled=true
 # 节点远程订阅，自行添加
+https://a.luxury/link/tteg17yU7WMYurTF?list=quantumultx, tag=jiji, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/lpmasser/command/master/netcase%20ss, tag=netease, update-interval=86400, opt-parser=false, enabled=true
 https://cdn.jsdelivr.net/gh/DesperadoJ/Rules-for-UnblockNeteaseMusic/QuantumultX/quantumultx-server.txt, tag=🎵 网易云音乐, update-interval=86400, opt-parser=false, enabled=true
 
 [filter_remote]

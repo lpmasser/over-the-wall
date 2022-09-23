@@ -1,0 +1,12 @@
+proxies:
+  - name: music_本地
+    type: http
+    server: 127.0.0.1
+    port: 8080
+proxy-groups:
+  - name: Proxy
+    type: select
+    proxies:
+      - music_本地
+rules:
+  - "MATCH,DIRECT"

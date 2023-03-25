@@ -68,7 +68,7 @@ static=美国节点, server-tag-regex=美|波特兰|达拉斯|俄勒冈|凤凰�
 
 [server_remote]
 #此处添加节点订阅链接
-https://g.luxury/link/tteg17yU7WMYurTF?list=quantumultx, tag=jiji, update-interval=86400, opt-parser=false, enabled=true
+https://dy.hahbhchdhfhghhhihjhihkhlhm169.online/link/tteg17yU7WMYurTF?list=quantumultx, tag=jiji, update-interval=86400, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/lpmasser/command/master/netcase%20ss, tag=netease, update-interval=86400, opt-parser=false, enabled=true
 https://cdn.jsdelivr.net/gh/DesperadoJ/Rules-for-UnblockNeteaseMusic/QuantumultX/quantumultx-server.txt, tag=🎵 网易云音乐, update-interval=86400, opt-parser=false, enabled=true
 

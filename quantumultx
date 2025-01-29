@@ -194,7 +194,7 @@ https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.re
 
 
 [server_local]
-
+trojan=209.141.36.117.nip.io:443, password=kug8JpZZ62x251fvMrne, over-tls=true, tls-host=209.141.36.117.nip.io.com, tls-verification=true, tls13=true, fast-open=false, udp-relay=false, tag=buyvm
 
 
 [server_remote]

@@ -194,11 +194,10 @@ https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.re
 
 
 [server_local]
-trojan=209.141.36.117.nip.io:443, password=kug8JpZZ62x251fvMrne, over-tls=true, tls-host=209.141.36.117.nip.io.com, tls-verification=true, tls13=true, fast-open=false, udp-relay=false, tag=buyvm
-
 
 [server_remote]
 http://1.94.134.144:3001/kug8JpZZ62x251fvMrne/download/jiji?target=QX, tag=sub-jiji, update-interval=86400, opt-parser=false, enabled=true
+http://1.94.134.144:3001/kug8JpZZ62x251fvMrne/download/buyvm?target=QX, tag=sub-buyvm, update-interval=86400, opt-parser=false, enabled=true
 # > 魔法仅供临时使用from@gitbigg
 # https://raw.githubusercontent.com/gitbigg/jd/main/new#delreg=.*&rename=@tg%40ddgksf2021-+@num-$index7, tag=🐟临时使用, update-interval=3600, opt-parser=true, enabled=true
 

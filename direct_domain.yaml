@@ -1,3 +1,5 @@
 payload:
   # 第七史诗，高能助手
   - DOMAIN,getsd.91shenfan.com
+  # 微信图片
+  - DOMAIN,wximg.wxs.qq.com

@@ -4,3 +4,5 @@ payload:
   - DOMAIN,api.privateapi.xyz
   # 微信图片
   - DOMAIN,wximg.wxs.qq.com
+  # linuxdo论坛
+  - DOMAIN,linux.do

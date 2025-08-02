@@ -5,4 +5,4 @@ payload:
   # 微信图片
   - DOMAIN,wximg.wxs.qq.com
   # linuxdo论坛
-  - DOMAIN,linux.do
+  - DOMAIN-SUFFIX,linux.do

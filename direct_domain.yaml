@@ -6,4 +6,4 @@ payload:
   - DOMAIN,wximg.wxs.qq.com
   # linuxdo论坛
   - DOMAIN-SUFFIX,linux.do
-  - DOMAIN-SUFFIX,gvt2.com
+  # - DOMAIN-SUFFIX,gvt2.com

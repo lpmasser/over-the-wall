@@ -7,3 +7,5 @@ payload:
   # linuxdo论坛
   # - DOMAIN-SUFFIX,linux.do
   # - DOMAIN-SUFFIX,gvt2.com
+  # 微软连接手机
+  - DOMAIN,dcg.microsoft.com

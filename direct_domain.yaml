@@ -9,3 +9,5 @@ payload:
   # - DOMAIN-SUFFIX,gvt2.com
   # 微软连接手机
   - DOMAIN,dcg.microsoft.com
+  # 英文学习网站
+  - DOMAIN,talkgo.net

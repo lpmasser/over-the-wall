@@ -11,3 +11,5 @@ payload:
   - DOMAIN,dcg.microsoft.com
   # 英文学习网站
   - DOMAIN,talkgo.net
+  # 绿云JPSB
+  - IP-CIDR,45.129.8.190/32

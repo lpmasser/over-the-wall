@@ -18,3 +18,5 @@ payload:
   - DOMAIN-SUFFIX,starling.zijieapi.com
   # openrouter
   - DOMAIN-SUFFIX,openrouter.ai
+  # 绿云JPSB
+  - IP-CIDR,45.129.8.190/32

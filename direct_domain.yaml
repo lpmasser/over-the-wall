@@ -13,3 +13,4 @@ payload:
   - DOMAIN,talkgo.net
   # 绿云JPSB
   # - IP-CIDR,45.129.8.190/32
+  - DOMAIN,elysia.h-e.top
